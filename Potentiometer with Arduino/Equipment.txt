@@ -1,0 +1,6 @@
+Required Equipments
+-------------------
+
+1. Arduino Uno
+2. Potentiometer - 10K
+3. Jumper Wires
