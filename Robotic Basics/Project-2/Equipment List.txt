@@ -1,0 +1,10 @@
+// Required Hardware
+1. Arduino UNO
+2. Breadboard
+3. LDR(Photoresistor)
+4. LED
+5. Jumper Wire
+6. 220 and 10K ohm resistor
+
+// Software
+*** Arduino IDE

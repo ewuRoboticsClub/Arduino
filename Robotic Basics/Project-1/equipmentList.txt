@@ -1,0 +1,9 @@
+// Required Hardware
+
+1. Arduino Uno
+2. Breadboard
+3. LED
+4. Jumper Wire
+
+// Software 
+*** Arduino IDE
